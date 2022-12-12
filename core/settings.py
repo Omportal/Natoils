@@ -34,6 +34,7 @@ INSTALLED_APPS = [
 PROJECT_APPS = [
     "apps.user_app.apps.UserAppConfig",
     "apps.order_app.apps.OrderAppConfig",
+    "apps.product_app.apps.ProductAppConfig",
 ]
 
 
